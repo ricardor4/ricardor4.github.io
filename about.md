@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
-Some information about you!
+Mathematics student at [PUC-Chile](www.uc.cl), interested in Math, Computer Science, Politics and Volunteering.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
