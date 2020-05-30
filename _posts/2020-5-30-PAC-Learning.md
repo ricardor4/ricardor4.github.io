@@ -151,12 +151,12 @@ we will denote as $$EX(c,\mathcal{C})$$ an oracle that runs in unit time
 and on each call returns a labeled example $$(x, c(x))$$ where $$x$$ is
 drawn i.i.d from $$\mathcal{D}$$
 
-Now we can finnally define the PAC model, note that this definition is
+Now we can finally define the PAC model, note that this definition is
 the original definition of the model but has been modified in the
 literature for issues of representation of concepts (see 1.22 of
 Kearns for details)
 
-(The PAC model) Let $$\mathcal{C}$$ a concept class over X. We say that
+(**The PAC model**) Let $$\mathcal{C}$$ a concept class over X. We say that
 $$\mathcal{C}$$ is PAC learnable if there exists an algorithm $$L$$ with the
 following property: for every concept $$c\in \mathcal{C}$$, for ev­ery
 distribution $$\mathcal{D}$$ on X and for all $$0 \leq \epsilon, \delta
