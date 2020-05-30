@@ -4,8 +4,6 @@ author: Ricardo Rodriguez Reveco
 title: What is the PAC learning model?
 ---
 
-Introduction and Motivation
-===========================
 
 The purpose of this post is to learn about the Probably Approximately
 Correct Learning model introduced by Valiant in "A Theory of the Learnable."
