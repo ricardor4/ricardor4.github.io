@@ -7,9 +7,9 @@ title: The PAC Learning model
 Introduction and Motivation
 ===========================
 
-The purpose of this post is to study the Probably Approximately
-Correct Learning model introduced by Valiant in [@valiant]. This model
-is relevant because is the first formal framework to study the process
+The purpose of this post is to learn about the Probably Approximately
+Correct Learning model introduced by Valiant in "A Theory of the Learnable."
+This model is relevant because is the first formal framework to study the process
 of learning from a computational viewpoint. Computability theory and
 complexity theory became possible once we had a rigorous model of the
 phenomenon of mechanical calculations (Turing Machines) that could be
@@ -23,7 +23,7 @@ acquired by any means different to explicit programming.
 A learning game
 ===============
 
-In this section we are going to follow section 1.1 of [@kearns]. Let us
+In this section we are going to follow section 1.1 of Kearns book. Let us
 consider the following 1-player game of learning an axis aligned
 rectangle, that is, given an unknown axis aligned rectangle
 ($$\mathcal{R}$$, called the **target**) in the euclidean plane the player
@@ -156,7 +156,7 @@ drawn i.i.d from $$\mathcal{D}$$
 Now we can finnally define the PAC model, note that this definition is
 the original definition of the model but has been modified in the
 literature for issues of representation of concepts (see 1.22 of
-[@kearns] for details)
+Kearns for details)
 
 (The PAC model) Let $$\mathcal{C}$$ a concept class over X. We say that
 $$\mathcal{C}$$ is PAC learnable if there exists an algorithm $$L$$ with the
@@ -238,9 +238,13 @@ takes linear time to process each example, so the running time is
 bounded by $$mn$$, and that is polynomial in $$\frac{1}{\epsilon}$$ and
 $$\frac{1}{\delta}$$. That concludes the proof.
 
-1
+References
+===========================================================
+
 
 Leslie G. Valiant: A Theory of the Learnable. Commun. ACM 27(11):
-1134-1142 (1984) Michael J. Kearns, Umesh V. Vazirani: An Introduction
+1134-1142 (1984)  
+
+Michael J. Kearns, Umesh V. Vazirani: An Introduction
 to Computational Learning Theory. MIT Press 1994, ISBN
 978-0-262-11193-5, pp. I-XII, 1-207
