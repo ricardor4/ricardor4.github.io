@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ricardo Rodriguez Reveco
-title: The PAC Learning model
+title: What is the PAC learning model?
 ---
 
 Introduction and Motivation
