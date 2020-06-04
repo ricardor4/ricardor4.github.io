@@ -190,8 +190,13 @@ $$x_{1}\cdots x_{n}$$. Let consider the concept class $$\mathcal{C}_{n}$$ to
 be the class of all conjunctions of literals over $$x_{1}\cdots x_{n}$$.
 We want to prove the following theorem.
 
+##### __Theorem 2.__  
+
 The concept class of conjunctions of boolean literals is efficiently PAC
 learnable
+
+#####  __Proof__  
+
 
 We propose the following algorithm, start with the hypothesis
 $$h = x_{1}\land \neg x_{1}  \land \cdots \land x_{n} \land \neg x_{n}$$
