@@ -57,14 +57,18 @@ For this game there is a simple strategy for the learner, the strategy
 consists on requesting a sufficient large sample of size $$m$$ and choose
 as $$\mathcal{R'}$$ the the smallest axis aligned rectangle which contains
 all of the positives examples and none of the negatives examples. We say
-that this rectangle is the \"tightest-fit rectangle\"
+that this rectangle is the \"tightest-fit rectangle\"  
 
-[\[rectangle\]]{#rectangle label="rectangle"} For any target rectangle
-$$\mathcal{R}$$ and for any distribution $$\mathcal{D}$$, and for every
+##### __Theorem 1.__  
+
+For any target rectangle $$\mathcal{R}$$ and for any distribution $$\mathcal{D}$$, and for every
 values $$\epsilon > 0, \delta\leq \frac{1}{2}$$ exists a value $$m$$ of the
 sample size for which with probability $$1-\delta$$ the tightest-fit
 rectangle has error at most $$\epsilon$$
 
+##### **Proof**
+
+ 
 Remember that the error of $$\mathcal{R'}$$ is defined as
 $$\mathbb{P}_{x \sim \mathcal{D}}(x\in \mathcal{R}\triangle \mathcal{R'} )$$
 and by definition of tightest-fit $$\mathcal{R'}\subseteq \mathcal{R}$$ so
@@ -106,9 +110,10 @@ inequality that $$(1-x)\leq e^{-x}$$ and we deduce that
 $$4(1-\frac{\epsilon}{4})^{m}\leq 4 e^{\frac{-\epsilon m}{4}}$$, and using
 logartims we conclude that
 $$m\geq \frac{4}{\epsilon} ln(\frac{4}{\delta})$$ satisfy what we are
-looking.
+looking.  
 
-The previus result shows that our strategy only needs a sample of size
+
+The previous result shows that our strategy only needs a sample of size
 $$\frac{4}{\epsilon} ln(\frac{4}{\delta})$$ to find a hypothesis rectangle
 that with probability of $$1-\delta$$ will have a error of classification
 with probability at most $$\epsilon$$. Also, the only assumptions about
@@ -156,7 +161,9 @@ the original definition of the model but has been modified in the
 literature for issues of representation of concepts (see 1.22 of
 Kearns for details)
 
-(**The PAC model**) Let $$\mathcal{C}$$ a concept class over X. We say that
+##### **The PAC model** 
+
+Let $$\mathcal{C}$$ a concept class over X. We say that
 $$\mathcal{C}$$ is PAC learnable if there exists an algorithm $$L$$ with the
 following property: for every concept $$c\in \mathcal{C}$$, for ev­ery
 distribution $$\mathcal{D}$$ on X and for all $$0 \leq \epsilon, \delta
@@ -171,9 +178,7 @@ if L runs in time polynomial in $$\frac{1}{\epsilon}$$ and
 $$\frac{1}{\delta}$$ we say that $$\mathcal{C}$$ is effi­ciently PAC
 learnable.
 
-Given that definition, theorem
-[\[rectangle\]](#rectangle){reference-type="ref" reference="rectangle"}
-says that the concept class of axis-aligned rectangles over the
+Given that definition, theorem 1 says that the concept class of axis-aligned rectangles over the
 euclidean plane is efficiently PAC learnable
 
 Conjuntion of boolean literals is efficiently PAC learnable
