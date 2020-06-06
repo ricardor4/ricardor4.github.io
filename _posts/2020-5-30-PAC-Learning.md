@@ -7,7 +7,6 @@ title: What is the PAC learning model?
 
 The purpose of this post is to learn about the Probably Approximately
 Correct Learning model introduced by Valiant in "A Theory of the Learnable."
-
 This model is relevant because is the first formal framework to study the process
 of learning from a computational viewpoint. Computability theory and
 complexity theory became possible once we had a rigorous model of the
@@ -18,7 +17,6 @@ needs a model that is valuable in their own sake and also explain the
 process of learning and the limits of them. Valiant defines that a
 program to perform a task has been acquired by *learning* if it has been
 acquired by any means different to explicit programming.
-
 |![Leslie Valiant](/assets/valiant.jpg)|
 |:--:| 
 | *Leslie Valiant* |
