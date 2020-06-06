@@ -85,7 +85,9 @@ in each strip, is at most $$\frac{\epsilon}{4}$$ (is clear that this bound
 is not tight). Without loss of generality we will analyze the top strip
 $$T'$$
 
-![Strip on the upper side of $$\mathcal{R'}$$](/assets/fig1.png)
+|![Strip on the upper side of $$\mathcal{R'}$$](/assets/fig1.png)|
+|:--:| 
+| *Figure 1* |
 
 Define T as the rectangular strip along the inside top of $$\mathcal{R}$$
 which encloses exactly weight $$\frac{\epsilon}{4}$$ under $$\mathcal{D}$$
