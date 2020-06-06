@@ -10,6 +10,7 @@ Correct Learning model introduced by Valiant in "A Theory of the Learnable."
 |![Leslie Valiant](/assets/valiant.jpg)|
 |:--:| 
 | *Leslie Valiant* |
+
 This model is relevant because is the first formal framework to study the process
 of learning from a computational viewpoint. Computability theory and
 complexity theory became possible once we had a rigorous model of the
