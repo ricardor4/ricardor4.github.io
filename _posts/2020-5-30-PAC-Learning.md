@@ -17,6 +17,7 @@ needs a model that is valuable in their own sake and also explain the
 process of learning and the limits of them. Valiant defines that a
 program to perform a task has been acquired by *learning* if it has been
 acquired by any means different to explicit programming.
+
 |![Leslie Valiant](/assets/valiant.jpg)|
 |:--:| 
 | *Leslie Valiant* |
