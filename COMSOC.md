@@ -1,10 +1,9 @@
 ---
 layout: page
-title: COMSOC
+title: Santiago Computational Social Choice Seminar
+
 permalink: /comsoc/
 ---
-
-# Santiago Computational Social Choice Seminar
 
 *Coming soon*
 
