@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am Ricardo Rodriguez Reveco, a graduate student at [PUC-Chile](https://www.uc.cl/) and [Millennium Institute for Foundational Research on Data](https://imfd.cl/).
-I am was a part-time lecturer at [Universidad Adolfo Ibañez](https://www.uai.cl/) and PUC. 
+I was a part-time lecturer at [Universidad Adolfo Ibañez](https://www.uai.cl/) and PUC. 
 Now I am a part-time consultant and developer on Blockchain technologies. My interests are mainly Math, Computer Science, Politics and Volunteering.
  
 
