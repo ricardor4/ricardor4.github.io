@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-permalink: /about/
 ---
 
 I am Ricardo Rodriguez Reveco, a graduate student at [PUC-Chile](https://www.uc.cl/) and [Millennium Institute for Foundational Research on Data](https://imfd.cl/).
