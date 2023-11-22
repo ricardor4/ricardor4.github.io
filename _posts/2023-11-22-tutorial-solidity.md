@@ -71,7 +71,8 @@ Precios del gas:  [https://etherscan.io/gastracker](https://etherscan.io/gastrac
 
 El siguiente contrato solamente guarda una variable para que otro contrato pueda acceder a su valor.
 
-```
+
+{% highlight solidity %}
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.4.16 <0.9.0;
 
@@ -86,11 +87,11 @@ contract SimpleStorage {
         return storedData;
     }
 }
-```
+{% endhighlight %}
 
 Pueden encontrar más ejemplos y ejecutarlos en 
 
-[https://remix.ethereum.org](https://remix.ethereum.org/)
+[Remix, un IDE web para Ethereum](https://remix.ethereum.org/)
 
 ## Ejemplos de uso
 
