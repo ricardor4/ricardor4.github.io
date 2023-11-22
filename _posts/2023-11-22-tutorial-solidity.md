@@ -64,9 +64,9 @@ Precios del gas:  [https://etherscan.io/gastracker](https://etherscan.io/gastrac
 
 **¿Que pasa si se acaba el gas?**
 
-1. La transacción falla y se registra como transacción no exitosa en el blockchain
-2. Se revierten todos los cambios realizados por la transacción
-3. El minero cobra el gas gastado de igual manera
+1. La transacción falla y se registra como transacción no exitosa en el blockchain.
+2. Se revierten todos los cambios realizados por la transacción.
+3. El minero cobra el gas gastado de igual manera.
 
 ## Ejemplo de un smart contract sencillo
 
@@ -102,13 +102,12 @@ Pueden encontrar más ejemplos y ejecutarlos en
 
 ## Diferencias con Bitcoin
 
-- ETH guarda en la ledger los balances de cuentas, no las transacciones, como BitCoin
-- Esto es más costoso, requiere estructuras de datos mas sofisticadas
-- Hace más fácil verificar el balance de una dirección, no tengo que leer toda la blockchain
-- Es más costoso en términos de espacio
+- ETH guarda en la ledger los balances de cuentas, no las transacciones, como BitCoin.
+- Esto es más costoso, requiere estructuras de datos más sofisticadas.
+- Hace más fácil verificar el balance de una dirección, no tengo que leer toda la blockchain.
+- Es más costoso en términos de espacio.
 - Hace posible **Replay Attacks**
-- Lo anterior permite replay attacks
-- Proof of work vs Proof of stake
+- Proof of work vs Proof of stake.
 
 ## Solidity
 
@@ -153,7 +152,7 @@ function getCount() public view returns (uint) {
 
 Queremos un contrato que interactúe con SimpleCounter, que reciba una string, la almacene y llame a SimpleCounter para aumentar el contador.
 
-La función increment es pública, se puede llamar desde cualquier lugar
+La función increment es pública, se puede llamar desde cualquier lugar.
 
 Por motivos de encapsulación nos gustaría tener una función que solamente pueda ser llamada desde otro contrato. Esto se llama external functions.
 
