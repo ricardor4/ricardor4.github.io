@@ -19,7 +19,7 @@ Existen otras Altcoins como
 - Peercoin
 - Dogecoin
 
-![doge](/_posts/img/doge.jpeg)
+![doge](/assets/doge.jpeg)
 
 ## ¿Smart Contracts?
 
@@ -52,9 +52,9 @@ Los valores están en un anexo del yellowpaper de ETH
 
 [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf) 
 
-![whitepaper1](/_posts/img/whitepaper1.png)
+![whitepaper1](/assets/whitepaper1.png)
 
-![whitepaper2](/_posts/img/whitepaper2.png)
+![whitepaper2](/assets/img/whitepaper2.png)
 
 **¿Que vale el gas?: Ether**
 
@@ -62,7 +62,7 @@ Cada transacción señala el valor que está dispuesto a pagar por gas, de maner
 
 a las fees en BitCoin
 
-![gas](img/gas.png)
+![gas](/assets/gas.png)
 
 Precios del gas:  [https://etherscan.io/gastracker](https://etherscan.io/gastracker)
 
