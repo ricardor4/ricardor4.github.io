@@ -6,6 +6,7 @@ mermaid: true
 ---
 Acá comparto un breve tutorial que preparé para el curso "Criptomonedas y Contratos Inteligentes" de la PUC.
 
+En este breve tutorial, exploraremos los conceptos básicos de Ethereum, Smart Contracts y Solidity, proporcionando ejemplos prácticos y consejos útiles.
 ## Altcoins
 
 Luego de bitcoin, nacieron otras propuestas de blockchains, principalmente para usos específicos, por ejemplo Namecoin que busca ser una alternativa a los DNS.
@@ -16,7 +17,7 @@ Existen otras Altcoins como
 - Peercoin
 - Dogecoin
 
-![doge](/assets/doge.jpeg)
+![Doge Coin](/assets/doge.jpeg)
 
 ## ¿Smart Contracts?
 
@@ -45,9 +46,9 @@ Cada instrucción de la EVM tiene asociado un costo en gas.
 
 Cada transacción tiene asociado un límite de gas a usar.
 
-Los valores están en un anexo del yellowpaper de ETH.
+Los valores están en un anexo del [yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) 
+ de Ethereum.
 
-[https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf) 
 
 ![whitepaper1](/assets/whitepaper1.png)
 
