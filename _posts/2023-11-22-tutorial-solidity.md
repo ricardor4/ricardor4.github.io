@@ -52,9 +52,9 @@ Los valores están en un anexo del yellowpaper de ETH
 
 [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf) 
 
-![whitepaper1](_posts/img/whitepaper1.png)
+![whitepaper1](/_posts/img/whitepaper1.png)
 
-![whitepaper2](_posts/img/whitepaper2.png)
+![whitepaper2](/_posts/img/whitepaper2.png)
 
 **¿Que vale el gas?: Ether**
 
