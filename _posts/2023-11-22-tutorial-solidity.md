@@ -5,9 +5,6 @@ title: Introducción a ETH, Smart Contracts y Solidity
 mermaid: true
 ---
 Acá comparto un breve tutorial que preparé para el curso "Criptomonedas y Contratos Inteligentes" de la PUC.
-# Introducción a ETH, Smart Contracts y Solidity
-Por Ricardo Rodriguez
-
 
 ## Altcoins
 
@@ -44,11 +41,11 @@ Problema, ¿Como evitamos bucles?
 
 Tenemos la idea de **Gas:**
 
-Cada instrucción de la EVM tiene asociado un costo en gas
+Cada instrucción de la EVM tiene asociado un costo en gas.
 
 Cada transacción tiene asociado un límite de gas a usar.
 
-Los valores están en un anexo del yellowpaper de ETH
+Los valores están en un anexo del yellowpaper de ETH.
 
 [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf) 
 
@@ -58,9 +55,7 @@ Los valores están en un anexo del yellowpaper de ETH
 
 **¿Que vale el gas?: Ether**
 
-Cada transacción señala el valor que está dispuesto a pagar por gas, de manera similar
-
-a las fees en BitCoin
+Cada transacción señala el valor que está dispuesto a pagar por gas, de manera similar a las fees en BitCoin.
 
 ![gas](/assets/gas.png)
 
@@ -100,7 +95,7 @@ Pueden encontrar más ejemplos y ejecutarlos en
 ## Ejemplos de uso
 
 - DNS blockchain a lo Namecoin
-- Ajedrez por correspondencia:
+- Ajedrez por correspondencia
 - Muchas otras
 
 ## Diferencias con Bitcoin
@@ -336,11 +331,11 @@ contract StringStorage {
 
 Para más información, puede ser útil el capítulo 7 del libro Mastering Ethereum de Antonopoulos Wood. Además de la documentación de Solidity en [https://docs.soliditylang.org](https://docs.soliditylang.org/)
 
-Otra referencia es el libro Solidity Programming Essentials de Ritesh Modi
+Otra referencia es el libro Solidity Programming Essentials de Ritesh Modi.
 
 [https://solidity-by-example.org/](https://solidity-by-example.org/hello-world/)
 
-[https://cryptozombies.io/en/course](https://cryptozombies.io/en/course) es un curso corto para aprender solidity mientras diseñas un juego de zombies
+[https://cryptozombies.io/en/course](https://cryptozombies.io/en/course) es un curso corto para aprender solidity mientras diseñas un juego de zombies.
 
 **Ideas de proyectos**
 
