@@ -10,8 +10,8 @@ Now I am a part-time consultant and developer on Blockchain technologies. My int
  
 
 
-My research interests are diverse, including logic, computational complexity, social choice and cryptography. 
-I studied mathematics as an undergraduate on  [PUC-Chile](https://www.uc.cl/), and I am a master student in computer science guided by Prof. [Marcelo Arenas](http://marceloarenas.cl/), and we are working on studying FPRAS algorithms for counting problems on the #P complexity class. Previously, I worked on a complexity analysis of a formalization of Schelling's model of segregation and on combinatorial problems related to blockchains.
+My research interests are diverse, including cryptography, logic, computational complexity, social choice. 
+I studied mathematics as an undergraduate on  [PUC-Chile](https://www.uc.cl/), and did my master studies in computer science guided by Prof. [Marcelo Arenas](http://marceloarenas.cl/), and we worked on studying FPRAS algorithms for counting problems on the #P complexity class. Previously, I worked on a complexity analysis of a formalization of Schelling's model of segregation and on combinatorial problems related to blockchains.
 
 **Starting Jan 2024 I will be a PhD student in the Symmetric Cryptography group of Ruhr Universität Bochum, in Germany.**
 
