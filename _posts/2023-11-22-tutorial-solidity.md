@@ -35,7 +35,7 @@ graph LR;
     B --> C[EVM];
 ```
 
-Problema, ¿Como evitamos bucles?
+# Problema, ¿Como evitamos bucles?
 
 Tenemos la idea de **Gas:**
 
@@ -51,7 +51,7 @@ Los valores están en un anexo del [yellowpaper](https://ethereum.github.io/yell
 
 ![whitepaper2](/assets/img/whitepaper2.png)
 
-**¿Que vale el gas?: Ether**
+# ¿Que vale el gas?: Ether
 
 Cada transacción señala el valor que está dispuesto a pagar por gas, de manera similar a las fees en BitCoin.
 
