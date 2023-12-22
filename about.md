@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-I am Ricardo Rodriguez Reveco, a graduate student at [PUC-Chile](https://www.uc.cl/) and [Millennium Institute for Foundational Research on Data](https://imfd.cl/).
-I was a part-time lecturer at [Universidad Adolfo Ibañez](https://www.uai.cl/) and PUC. 
-Now I am a part-time consultant and developer on Blockchain technologies. My interests are mainly Math, Computer Science, Politics and Volunteering.
+I am Ricardo Rodriguez Reveco, since  Jan 2024 I am a PhD student in the Symmetric Cryptography group of Ruhr Universität Bochum, in Germany.
+Before that, I was graduate student at [PUC-Chile](https://www.uc.cl/) and [Millennium Institute for Foundational Research on Data](https://imfd.cl/).
+I also worked as a part-time lecturer at [Universidad Adolfo Ibañez](https://www.uai.cl/) and PUC. 
  
 
 
