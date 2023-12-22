@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 I am Ricardo Rodriguez Reveco, since  Jan 2024 I am a PhD student in the [Symmetric Cryptography](https://informatik.rub.de/symcrypt/) group of [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/), in Germany.
