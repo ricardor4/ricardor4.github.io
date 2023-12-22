@@ -30,7 +30,6 @@ Bitcoin script no es Turing completo, esto debido a que no tiene loops.
 Surge naturalmente la idea, en vez de crear criptomonedas nuevas para cada uso, ¿Qué tal si hacemos una Turing-completa.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '26px'}}}%%
 graph LR;
     A[ Solidity/Vyper ] --> B[ Bytecode ];
     B --> C[EVM];
