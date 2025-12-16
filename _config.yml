@@ -84,11 +84,11 @@ exclude:
   - README.md
   - CNAME
 
-  # Main Navigation Menu
+# Main Navigation Menu
 menu:
   - title: Blog
-    url: /
-  - title: About
+    url: /blog/index.html
+  - title: About me
     url: /about
   - title: Contact
     url: /contact
