@@ -83,3 +83,12 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  # Main Navigation Menu
+menu:
+  - title: Blog
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
