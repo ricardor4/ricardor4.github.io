@@ -8,7 +8,7 @@ name: Ricardo Rodriguez Reveco
 # Short bio or description (displayed in the header)
 description: PhD student in Cryptography
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/ricardor4/ricardor4.github.io/blob/master/images/avatar-140.png?raw=true
+avatar: /images/avatar-140.png
 
 #
 # Flags below are optional
@@ -90,5 +90,3 @@ menu:
     url: /blog/index.html
   - title: About me
     url: /about
-  - title: Contact
-    url: /contact
