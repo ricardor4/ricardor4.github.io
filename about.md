@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
-published: true
+published: false
 ---
 
 I am Ricardo Rodriguez Reveco, I am a PhD student in the [Symmetric Cryptography](https://informatik.rub.de/symcrypt/) group of [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/), where I am supervised by [Gregor Leander](https://informatik.rub.de/leander/).
