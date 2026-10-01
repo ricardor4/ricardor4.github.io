@@ -90,3 +90,5 @@ menu:
     url: /blog/index.html
   - title: About me
     url: /about
+  - title: Contact
+    url: /contact
