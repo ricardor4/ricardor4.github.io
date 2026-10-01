@@ -14,7 +14,3 @@ Right now I am working on key recovery on differential cryptanalysis and the wro
 
 I studied mathematics as an undergraduate at  [Pontificia Universidad Católica de Chile](https://www.uc.cl/), and did a master degree in computer science supervised by Prof. [Marcelo Arenas](http://marceloarenas.cl/). With Marcelo we worked on studying FPRAS algorithms for counting problems on the #P complexity class. Previously, we worked on a complexity analysis of a formalization of Schelling's model of segregation and on combinatorial problems related to blockchains.
 
-
-
-# Non-academic info about me #
-I was born in the vibrant city of [Santiago de Chile](https://en.wikipedia.org/wiki/Santiago),  where my father worked as a [travelling salesman](https://en.wikipedia.org/wiki/Travelling_salesman_problem), so that is maybe the reason why I like theoretical computer science. I enjoy karaoke and consider myself a [Swiftie](https://en.wikipedia.org/wiki/Taylor_Swift). I'm the type of person who appreciates "Lost in Translation" as a good movie. I have a fondness for dad jokes and am deeply fascinated by the comedic style of [Norm Macdonald](https://www.youtube.com/watch?v=9GKKnlsZvQA).
