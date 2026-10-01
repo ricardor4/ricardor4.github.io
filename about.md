@@ -9,8 +9,13 @@ I am Ricardo Rodriguez Reveco, I am a PhD student in the [Symmetric Cryptography
 Before that, I was a graduate student at [PUC-Chile](https://www.uc.cl/) and [Millennium Institute for Foundational Research on Data](https://imfd.cl/).
 I also worked as a part-time lecturer at [Universidad Adolfo Ibañez](https://www.uai.cl/) and PUC. 
 
-My research interests are broad, mainly about cryptanalysis and the use of automated tools for it (SAT/SMT/MILP). Also I have a sweet spot for underanalyzed assumptions in cryptanalysis and fixed-key vs average key behaviours.
-Right now I am working on key recovery on differential cryptanalysis and the wrong key randomization hypothesis.  
+My research interests are broad, mainly about cryptanalysis and the use of automated tools for it (SAT/SMT/MILP). Also I have a sweet spot for underanalyzed assumptions in cryptanalysis and fixed-key vs average-key behaviours.
+Right now I am working on key-dependent behaviours in cryptanalysis, in particular key recovery in differential cryptanalysis and the wrong-key randomization hypothesis. On the side, I keep working with Marcelo Arenas on Boolean functions and explainable AI.
+
+# Publications #
+
+- **[A Quasidifferential Analysis of the Wrong-Key Randomization Hypothesis](https://eprint.iacr.org/2026/1848)** (with Tim Beyne, Gregor Leander and Mariia Mutkovina). To appear in *IACR Transactions on Symmetric Cryptology (ToSC)* 2026, Issue 3. [[ePrint 2026/1848]](https://eprint.iacr.org/2026/1848)
+- **Explaining Explainable AI: Boolean Functions and an Application** (with Marcelo Arenas). To appear at *Boolean Functions and their Applications (BFA)* 2026.
 
 I studied mathematics as an undergraduate at  [Pontificia Universidad Católica de Chile](https://www.uc.cl/), and did a master degree in computer science supervised by Prof. [Marcelo Arenas](http://marceloarenas.cl/). With Marcelo we worked on studying FPRAS algorithms for counting problems on the #P complexity class. Previously, we worked on a complexity analysis of a formalization of Schelling's model of segregation and on combinatorial problems related to blockchains.
 
