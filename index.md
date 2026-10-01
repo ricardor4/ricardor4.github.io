@@ -3,7 +3,7 @@ layout: page
 ---
 
 I am Ricardo Rodriguez Reveco, a PhD student in the [Symmetric Cryptography](https://informatik.rub.de/symcrypt/) group of [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/), supervised by [Gregor Leander](https://informatik.rub.de/leander/).
-I work on key-dependent behaviours in cryptanalysis, right now key recovery in differential cryptanalysis and the wrong-key randomization hypothesis.
+I am currently focused on primitives based on the chi (χ) function and, on the side, on connections between cryptography, Boolean functions and learning theory.
 
 More about my background on the [about page]({{ site.baseurl }}/about/).
 
