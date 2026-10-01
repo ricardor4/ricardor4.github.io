@@ -7,7 +7,7 @@ I am currently focused on primitives based on the chi (χ) function and, on the 
 
 More about my background on the [about page]({{ site.baseurl }}/about/).
 
-# Publications & Talks #
+# Papers #
 
 - **[A Quasidifferential Analysis of the Wrong-Key Randomization Hypothesis](https://eprint.iacr.org/2026/1848)** (with Tim Beyne, Gregor Leander and Mariia Mutkovina). To appear in *IACR Transactions on Symmetric Cryptology (ToSC)* 2026, Issue 3. [[ePrint 2026/1848]](https://eprint.iacr.org/2026/1848)
 - **Explaining Explainable AI: Boolean Functions and the SHAP–Relevancy Gap** (with Marcelo Arenas). To be presented at [*Boolean Functions and their Applications (BFA) 2026*](https://boolean.w.uib.no/bfa-2026/).
