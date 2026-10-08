@@ -9,7 +9,7 @@ I am currently focused on primitives based on the chi (χ) function and, on the 
 
 - **[Settling Conjectures on Linear Structures of Inverse ChiChi Generalizations: Four Proofs and a Counterexample](https://eprint.iacr.org/2026/2379)** (with Hui Wang and Kai Hu). Preprint, 2026. [[ePrint 2026/2379]](https://eprint.iacr.org/2026/2379)
 - **[A Quasidifferential Analysis of the Wrong-Key Randomization Hypothesis](https://eprint.iacr.org/2026/1848)** (with Tim Beyne, Gregor Leander and Mariia Mutkovina). To appear in *IACR Transactions on Symmetric Cryptology (ToSC)* 2026, Issue 3. [[ePrint 2026/1848]](https://eprint.iacr.org/2026/1848)
-- **Explaining Explainable AI: Boolean Functions and the SHAP–Relevancy Gap** (with Marcelo Arenas). To be presented at [*Boolean Functions and their Applications (BFA) 2026*](https://boolean.w.uib.no/bfa-2026/).
+- **Explaining Explainable AI: Boolean Functions and the SHAP–Relevancy Gap** (with Marcelo Arenas). Presented at [*Boolean Functions and their Applications (BFA) 2026*](https://boolean.w.uib.no/bfa-2026/).
 
 # About me #
 
