@@ -2,7 +2,6 @@
 layout: post
 author: Ricardo Rodriguez Reveco
 title: Introducción a ETH, Smart Contracts y Solidity
-mermaid: true
 ---
 Acá comparto un breve tutorial que preparé para el curso "Criptomonedas y Contratos Inteligentes" de la PUC.
 
@@ -29,11 +28,7 @@ Bitcoin script no es Turing completo, esto debido a que no tiene loops.
 
 Surge naturalmente la idea, en vez de crear criptomonedas nuevas para cada uso, ¿Qué tal si hacemos una Turing-completa.
 
-```mermaid
-graph LR;
-    A[ Solidity/Vyper ] --> B[ Bytecode ];
-    B --> C[EVM];
-```
+**Solidity/Vyper → Bytecode → EVM**
 
 # Problema, ¿Como evitamos bucles?
 
@@ -49,7 +44,7 @@ Los valores están en un anexo del [yellowpaper](https://ethereum.github.io/yell
 
 ![whitepaper1](/assets/whitepaper1.png)
 
-![whitepaper2](/assets/img/whitepaper2.png)
+![whitepaper2](/assets/whitepaper2.png)
 
 # ¿Que vale el gas?: Ether
 
