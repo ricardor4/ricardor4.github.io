@@ -3,16 +3,8 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
-    <meta name="author" content="{{ site.name }}" />
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" sizes="any">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/avatar-140.png">
 
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
-    {% endif %}
+    {% comment %} Description, canonical URL, Open Graph and JSON-LD. The <title> stays in the layout. {% endcomment %}
+    {% seo title=false %}

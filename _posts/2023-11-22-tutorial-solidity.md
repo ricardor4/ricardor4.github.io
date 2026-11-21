@@ -2,6 +2,7 @@
 layout: post
 author: Ricardo Rodriguez Reveco
 title: Introducción a ETH, Smart Contracts y Solidity
+lang: es
 ---
 Acá comparto un breve tutorial que preparé para el curso "Criptomonedas y Contratos Inteligentes" de la PUC.
 
